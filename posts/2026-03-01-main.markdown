@@ -1,0 +1,6 @@
+---
+title: init Main.Start  
+---
+
+
+Start blog from Gopher Ghost.Err418

@@ -1,0 +1,40 @@
+# ===== HAKYLL GENERATED & CACHE =====
+_site/
+_cache/
+
+# ===== HASKELL / CABAL / STACK =====
+dist-newstyle/
+dist/
+*.hi
+*.o
+*.dyn_hi
+*.dyn_o
+*.hie
+.cabal-sandbox/
+cabal.sandbox.config
+
+# Stack
+.stack-work/
+stack.yaml.lock
+
+# ===== EDITORS & IDE =====
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# ===== OPERATING SYSTEM =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== LOGS & TEMP =====
+*.log
+tmp/
+temp/
+
+# ==== Nix ====
+result
