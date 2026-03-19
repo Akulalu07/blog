@@ -2,6 +2,6 @@
 title: Contact
 ---
 
-Telegram: @ERR_418
+Telegram: `@ERR_4O4`
 
-Mail: someerr418@gmail.com 
+Mail: `someerr418@gmail.com`

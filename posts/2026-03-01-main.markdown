@@ -1,6 +1,6 @@
 ---
-title: init Main.Start  
+title: First notes
 ---
 
 
-Start blog from Gopher Ghost.Err418
+Starting this blog as a place for short notes about software, infrastructure, and whatever I am currently learning.
